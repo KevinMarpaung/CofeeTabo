@@ -1,6 +1,6 @@
 import Navbar from "../Components/Elements/Navbar";
-import GambarCoffe from "../../img/img-hero.png";
-import bghero from "../../img/bg.png";
+import GambarCoffe from "../img/img-hero.png";
+import bghero from "../img/bg.png";
 
 const Main = () => {
   return (

@@ -1,6 +1,6 @@
-import foodTruk from "../../../img/food-truck 1.png";
-import coffe from "../../../img/coffee-cup 2.png";
-import coffe2 from "../../../img/image.png";
+import foodTruk from "../../img/food-truck 1.png";
+import coffe from "../../img/coffee-cup 2.png";
+import coffe2 from "../../img/image.png";
 
 const CardKecil = ({ gambar, title, subtitle }) => {
   return (

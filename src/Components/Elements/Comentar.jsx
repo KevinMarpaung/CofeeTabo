@@ -1,4 +1,4 @@
-import Comentar1 from "../../../img/kometar1.png";
+import Comentar1 from "../../img/kometar1.png";
 const Comentar = () => {
   return (
     <div className="bg-[url(img/bg-image.png)] mr-90  relative rounded-2xl mt-20  ">

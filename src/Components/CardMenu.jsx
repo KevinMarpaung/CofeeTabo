@@ -1,4 +1,4 @@
-import Coffe1 from "../../img/img_product.png";
+import Coffe1 from "../img/img_product.png";
 
 const CardMenu = () => {
   return (

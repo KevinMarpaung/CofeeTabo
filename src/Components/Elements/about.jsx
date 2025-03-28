@@ -1,4 +1,4 @@
-import coffe3 from "../../../img/cofee3.png";
+import coffe3 from "../../img/cofee3.png";
 
 const About = () => {
   return (
